@@ -14,5 +14,7 @@ public class p01RectangleArea {
         int rectangleArea = aSide * bSide;
 
         System.out.println(rectangleArea);
+
+	   // comment
     }
 }
